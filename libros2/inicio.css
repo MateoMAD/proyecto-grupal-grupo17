@@ -1,0 +1,34 @@
+body{
+    background: url("imagenes/seis-libros-arriba.jpg");
+    background-size: cover;
+}
+.formulario{
+  background-color: #333;
+   margin: 50px 0 0 160px;
+width: 50vw;
+height: 70vh;
+border: 1px solid black;
+border-radius: 10px;
+}
+
+.logito{
+color: rgb(237, 253, 13); 
+    margin-top: 10px;
+    display: flex;
+justify-content: center;    
+  
+}
+.username{margin: 20px 0 0 65px;
+    background-color: #333;
+    display: flex;
+    border: 1px solid transparent;
+   border-bottom: 1px solid black;
+}
+.boton{
+    background-color: #333;
+  
+    display: flex;
+    border: 1px solid transparent; 
+   
+    margin:20px 0 0 130px;
+}
